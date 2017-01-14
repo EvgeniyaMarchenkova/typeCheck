@@ -1,0 +1,10 @@
+body {
+    background-image: url("fon.jpg");
+    text-align: center;
+}
+.container {
+    display: inline-block;
+    margin-top: 300px;
+}
+
+
